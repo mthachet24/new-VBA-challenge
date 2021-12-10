@@ -22,13 +22,13 @@ Create a script that will loop through all the stocks for one year and output th
 
  2014: 
  
- <img src= "2014_screenshot">
+ <img src= "2014_screenshot.png">
 
 2015: 
 
- <img src= "2015_screenshot">
+ <img src= "2015_screenshot.png">
  
 2016: 
 
- <img src= "2016_screenshot">
+ <img src= "2016_screenshot.png">
 
